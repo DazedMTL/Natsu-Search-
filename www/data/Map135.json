@@ -1461,7 +1461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう すっかり夜だ"
+                                "It's already night."
                             ]
                         },
                         {
@@ -1478,14 +1478,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美咲さんには"
+                                "I told Misaki-san to stay at Koto-chan's house."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "琴ちゃんの家に泊まるよう 言ってきたし"
+                                ""
                             ]
                         },
                         {
@@ -1502,7 +1502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小梅ちゃんは 葵お姉ちゃんの家にお泊り"
+                                "Koume-chan is staying over at Aoi-neechan's house."
                             ]
                         },
                         {
@@ -1519,14 +1519,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさんと琴ちゃんが 二人きりになれる、"
+                                "It's the perfect timing for Uncle and Koto-chan to\nbe alone together."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ちょうどいいタイミングだ"
+                                ""
                             ]
                         },
                         {
@@ -1543,7 +1543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・"
+                                "......"
                             ]
                         },
                         {
@@ -1560,7 +1560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "きっと 仲直りできる"
+                                "We can definitely make up."
                             ]
                         },
                         {
@@ -1577,7 +1577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさんのとこに 向かおう"
+                                "Let's head to Uncle's place."
                             ]
                         },
                         {

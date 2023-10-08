@@ -1989,7 +1989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " すーーーーーっ"
+                                "Ssshhhh"
                             ]
                         },
                         {
@@ -2006,7 +2006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " ・・・・・・"
+                                " ......"
                             ]
                         },
                         {
@@ -2023,7 +2023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ぷはぁ"
+                                "Puhaha"
                             ]
                         },
                         {
@@ -2058,7 +2058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 今日も 快晴\\.、空も 緑も 見たことないほど 広い"
+                                "Today is also clear and sunny, the sky and the\ngreenery are so vast that I've never seen before."
                             ]
                         },
                         {
@@ -2075,7 +2075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 空気も 澄んでいて おいしい気がする"
+                                "The air is clear and it feels delicious."
                             ]
                         },
                         {
@@ -2092,21 +2092,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 地元も そんなに 都会なほうではないけれど、\\!"
+                                "Even though my hometown isn't that urban, it's\nquite refreshing to not see any buildings or\nskyscrapers other than houses."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 一軒家以外 ビルも 建物も 見当たらないって"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " なかなか 新鮮だなぁ"
+                                ""
                             ]
                         },
                         {
@@ -2141,7 +2141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 自販機すら 見当たらないや"
+                                "I can't even find a vending machine."
                             ]
                         },
                         {
@@ -2210,7 +2210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、どこに行ってみよう！"
+                                "Well, where should we go!"
                             ]
                         },
                         {

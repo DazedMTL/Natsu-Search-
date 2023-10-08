@@ -1413,7 +1413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よっし、"
+                                "Alright,"
                             ]
                         },
                         {
@@ -1430,7 +1430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も 家庭教師の練習だ！"
+                                "Today is another practice session as a tutor!"
                             ]
                         },
                         {
@@ -1447,14 +1447,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "琴ちゃんのおかげで"
+                                "Thanks to Koto-chan, studying has started to feel\nfun."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "勉強が 楽しく感じてきたし、"
+                                ""
                             ]
                         },
                         {
@@ -1471,7 +1471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "頭だって良くなってきてる 気がする"
+                                "I feel like even my head is getting better."
                             ]
                         },
                         {
@@ -1488,7 +1488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特に 算数は かなり得意になった"
+                                "Especially math, I've become quite good at it."
                             ]
                         },
                         {
@@ -1505,14 +1505,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教えるのも上手になって\\!"
+                                "I've become good at teaching! I'm already a\nsplendid teacher."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もうすっかり、立派な先生だ"
+                                ""
                             ]
                         },
                         {
@@ -1529,7 +1529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も 楽しみだなぁ"
+                                "I'm looking forward to today as well."
                             ]
                         },
                         {

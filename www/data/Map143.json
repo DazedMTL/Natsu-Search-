@@ -1463,7 +1463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あれから ずっと考えているけど"
+                                "I've been thinking about it since then, but..."
                             ]
                         },
                         {
@@ -1480,7 +1480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なかなか いい案が出てこない"
+                                "I haven't come up with a good idea yet."
                             ]
                         },
                         {
@@ -1497,7 +1497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・・・・"
+                                "......"
                             ]
                         },
                         {
@@ -1514,14 +1514,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "散歩をしながらだと"
+                                "I wonder if a good idea will come to me while\ntaking a walk..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いいアイディア 浮かぶかな…"
+                                ""
                             ]
                         },
                         {

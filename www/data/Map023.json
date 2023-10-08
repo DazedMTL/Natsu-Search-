@@ -1814,7 +1814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "わぁ…\\. すっごい 大きな橋"
+                                "Wow... Such a big bridge."
                             ]
                         },
                         {
@@ -1831,14 +1831,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " ずっと遠くまで続く 川\\!"
+                                "The river that continues far into the distance...\nThe embankment that continues far into the\ndistance..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " ずっと遠くまで続く 土手"
+                                ""
                             ]
                         },
                         {
@@ -1855,21 +1855,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " この橋がなかったら どうやって渡るんだろう\\!"
+                                "Natsu: I wonder how we would cross this river if\nthere wasn't this bridge! There doesn't seem to be\nany other way to cross this river."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " そう 思わせるほど"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " この川を渡る手段が ほかに見当たらなかった"
+                                ""
                             ]
                         },
                         {
@@ -1886,7 +1886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おぉ"
+                                "Oh"
                             ]
                         },
                         {
@@ -1903,7 +1903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 水面を覗き込むと 魚が泳いでいるのを見つけた"
+                                "Natsu: When I looked into the water, I found fish\nswimming."
                             ]
                         },
                         {
@@ -1920,14 +1920,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そこに階段あるし"
+                                "There are stairs over there. I wish we could go\nfishing someday."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "いつか 釣りとかできたらなぁ"
+                                ""
                             ]
                         },
                         {
@@ -1944,7 +1944,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " たのしみが ひとつ 増えた"
+                                "I have one more thing to look forward to."
                             ]
                         },
                         {
@@ -2013,7 +2013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " そして"
+                                "And"
                             ]
                         },
                         {
@@ -2030,7 +2030,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " さっきから 気になっていた アレ"
+                                "I've been curious about that thing since earlier."
                             ]
                         },
                         {
@@ -2095,21 +2095,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 「あおいや」って"
+                                "It's like a shop with a big sign that says\n'Aoiya'! But when I looked closely, it had a flag\nthat said 'Dagashi'."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 大きな看板を主張する お店のようなもの\\!"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " よく見たら だがしって旗を掲げていた"
+                                ""
                             ]
                         },
                         {
@@ -2126,14 +2126,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 美咲さんから お小遣いを もらっていたのを思い出し"
+                                "Misaki remembered that she had received pocket\nmoney, so she put her hand into a small waist\npouch."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                " 小さなウエストポーチに 手を突っ込む"
+                                ""
                             ]
                         },
                         {
@@ -2150,7 +2150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "よし、ある"
+                                "Alright, there it is."
                             ]
                         },
                         {

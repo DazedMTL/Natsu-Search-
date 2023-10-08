@@ -1417,7 +1417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も おいしいごはんをありがとう"
+                                "Thank you for the delicious meal today."
                             ]
                         },
                         {
@@ -1425,8 +1425,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いただきます！",
-                                    "離れる"
+                                    "Bon appétit!",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -1805,7 +1805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここは あんまり 入りたくない"
+                                "I don't really want to go in here."
                             ]
                         },
                         {
@@ -1813,8 +1813,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入る",
-                                    "離れる"
+                                    "Enter",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -2140,7 +2140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あ、美咲さん！"
+                                "Ah, Misaki-san!"
                             ]
                         },
                         {
@@ -2148,8 +2148,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "近づく",
-                                    "離れる"
+                                    "Approach",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -2510,14 +2510,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "眠くなってきちゃった…\\!"
+                                "I'm starting to get sleepy... Maybe I should go to\nbed soon..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "そろそろ 寝ちゃおうかな…"
+                                ""
                             ]
                         },
                         {
@@ -2525,8 +2525,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "おやすみなさい",
-                                    "まだ起きてる"
+                                    "Goodnight",
+                                    "Still awake?"
                                 ],
                                 1,
                                 0,
@@ -3551,7 +3551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また あの光だ"
+                                "It's that light again."
                             ]
                         },
                         {
@@ -3559,8 +3559,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "触れる",
-                                    "離れる"
+                                    "Touch",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -3886,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美咲さんが 外へ 出るための練習だ"
+                                "Misaki-san is practicing to go outside."
                             ]
                         },
                         {
@@ -3894,8 +3894,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "一緒にがんばる",
-                                    "離れる"
+                                    "Let's do our best together",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -4256,7 +4256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "また あの光だ"
+                                "It's that light again."
                             ]
                         },
                         {
@@ -4264,8 +4264,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "触れる",
-                                    "離れる"
+                                    "Touch",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -4591,21 +4591,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " - 美咲シナリオ - "
+                                "- Misaki Scenario - If you proceed, you won't be\nable to progress with other events for a while."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進むと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらくの間 他のイベントが進行できなくなります"
+                                ""
                             ]
                         },
                         {
@@ -4622,7 +4622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も、克服のとっくんだ"
+                                "Today is another step towards overcoming it."
                             ]
                         },
                         {
@@ -4630,8 +4630,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "とっくんだ！",
-                                    "離れる"
+                                    "Let's do it!",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -4816,7 +4816,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "進む"
+                                    "Move forward"
                                 ],
                                 1,
                                 0,
@@ -4995,7 +4995,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "進む"
+                                    "Move forward"
                                 ],
                                 1,
                                 0,
@@ -5142,7 +5142,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "進む"
+                                    "Move forward"
                                 ],
                                 1,
                                 0,
@@ -5940,7 +5940,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今なら、入れると思う"
+                                "I think I can put it in now."
                             ]
                         },
                         {
@@ -5957,7 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう、怖さは 感じない"
+                                "I don't feel scared anymore."
                             ]
                         },
                         {
@@ -5965,8 +5965,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入る",
-                                    "離れる"
+                                    "Enter",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -6354,7 +6354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、今日は なにをしようかな？"
+                                "Well, what should I do today?"
                             ]
                         },
                         {
@@ -6362,8 +6362,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "考える",
-                                    "離れる"
+                                    "Think",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -6724,14 +6724,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うぅ…、"
+                                "Ugh... I'm scared..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "怖いなぁ…"
+                                ""
                             ]
                         },
                         {
@@ -6739,8 +6739,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "肝だめし！",
-                                    "離れる"
+                                    "Courage test!",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -7080,21 +7080,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "さて、今日は なにをしようかな？"
+                                "Well, what should I do today? (I need 4 units of\nenergy during the day)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(日中の元気が 4つ 必要です)"
+                                ""
                             ]
                         },
                         {
@@ -7102,8 +7102,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "考える",
-                                    "離れる"
+                                    "Think",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -7416,21 +7416,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここかな…"
+                                "Is it here... (I need three units of daytime\nenergy)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(日中の元気が 3つ 必要です)"
+                                ""
                             ]
                         },
                         {
@@ -7438,8 +7438,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "入ってみる",
-                                    "離れる"
+                                    "Try entering",
+                                    "Move away"
                                 ],
                                 1,
                                 0,
@@ -7823,7 +7823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お家に 帰ろうとしてるとは いったい…"
+                                "What on earth are you trying to go home for..."
                             ]
                         },
                         {
@@ -7831,8 +7831,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "お話を聞く",
-                                    "離れる"
+                                    "Listen to the story",
+                                    "Leave"
                                 ],
                                 1,
                                 0,
@@ -8182,7 +8182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一生懸命、お手伝いだ！"
+                                "I'll do my best to help!"
                             ]
                         },
                         {
@@ -8190,8 +8190,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "神社を作る",
-                                    "離れる"
+                                    "Build a shrine",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -8563,21 +8563,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
+                                "If you proceed, you won't be able to progress with\nother events anymore."
+                            ]
+                        },
+                        {
+                            "code": 0,
+                            "indent": 0,
+                            "parameters": [
                                 ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進むと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう 他のイベントが進行できなくなります"
+                                ""
                             ]
                         },
                         {
@@ -8594,7 +8594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうちょっとで 完成だ"
+                                "It's almost complete."
                             ]
                         },
                         {
@@ -8602,8 +8602,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "神社を作る",
-                                    "離れる"
+                                    "Build a shrine",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -8806,7 +8806,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "進む"
+                                    "Go forward"
                                 ],
                                 1,
                                 0,
@@ -8971,7 +8971,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "進む"
+                                    "Go forward"
                                 ],
                                 1,
                                 0,
@@ -9125,7 +9125,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "進む"
+                                    "Go forward"
                                 ],
                                 1,
                                 0,
@@ -9464,7 +9464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " もう一度 エンディングを 見ることができます"
+                                "You can watch the ending again."
                             ]
                         },
                         {
@@ -9481,7 +9481,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " 現在のデータは 引き継げませんので ご注意ください"
+                                "Please note that the current data cannot be\ntransferred."
                             ]
                         },
                         {
@@ -9489,8 +9489,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もう一度見る",
-                                    "離れる"
+                                    "View again",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -9978,7 +9978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ごめんくださーい"
+                                "Excuse me."
                             ]
                         },
                         {
@@ -9986,8 +9986,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会いに行く",
-                                    "離れる"
+                                    "I'm going to meet you",
+                                    "Move away"
                                 ],
                                 1,
                                 0,
@@ -10341,7 +10341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "葵お姉ちゃーん"
+                                "Aoi, big sister~"
                             ]
                         },
                         {
@@ -10349,8 +10349,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会いに行く",
-                                    "離れる"
+                                    "I'm going to meet you",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -10704,7 +10704,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヒマね～"
+                                "I'm bored~"
                             ]
                         },
                         {
@@ -10712,8 +10712,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "葵視点へ",
-                                    "離れる"
+                                    "Aoi's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -11067,7 +11067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も ヒマヒマだわ～"
+                                "I'm bored again today~"
                             ]
                         },
                         {
@@ -11075,8 +11075,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "葵視点へ",
-                                    "離れる"
+                                    "Aoi's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -11448,7 +11448,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "アイスでも食べながら アニメ見るか…"
+                                "How about watching anime while eating ice cream..."
                             ]
                         },
                         {
@@ -11456,8 +11456,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "葵視点へ",
-                                    "離れる"
+                                    "Aoi's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -11811,7 +11811,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小梅ちゃん、まさか…！？"
+                                "Koume-chan, could it be...!?"
                             ]
                         },
                         {
@@ -11819,8 +11819,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "葵視点へ",
-                                    "離れる"
+                                    "Aoi's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -12192,7 +12192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美咲さんも 明るくなったな～"
+                                "Misaki-san has become brighter~"
                             ]
                         },
                         {
@@ -12200,8 +12200,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "葵視点へ",
-                                    "離れる"
+                                    "Aoi's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -12555,7 +12555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お魚さん 釣れないわね～"
+                                "I can't catch any fish~"
                             ]
                         },
                         {
@@ -12563,8 +12563,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "付き合う",
-                                    "離れる"
+                                    "Go out with me?",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -12918,21 +12918,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " - 葵シナリオ - "
+                                "- Aoi Scenario - If you proceed, you won't be able\nto progress with other events for a while."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進むと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらくの間 他のイベントが進行できなくなります"
+                                ""
                             ]
                         },
                         {
@@ -12949,7 +12949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今夜は、みんなで花火だ！"
+                                "Tonight, let's have fireworks together!"
                             ]
                         },
                         {
@@ -12957,8 +12957,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "花火の日！",
-                                    "離れる"
+                                    "Fireworks day!",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -13291,7 +13291,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も起きてるかな？"
+                                "I wonder if she's awake today?"
                             ]
                         },
                         {
@@ -13299,8 +13299,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会いに行く",
-                                    "離れる"
+                                    "Go see her",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -13732,7 +13732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "葵お姉ちゃんと遊ぼう！"
+                                "Let's play with Aoi-chan!"
                             ]
                         },
                         {
@@ -13740,8 +13740,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会いに行く",
-                                    "離れる"
+                                    "I'm going to meet you",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -14162,14 +14162,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日こそ ふつうに！ …ふつうにっ！！"
+                                "Today, I'm going to play with Aoi-neechan\nnormally! ...Normally!! I'm going to play with\nAoi-neechan normally!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ふつうに 葵お姉ちゃんと遊ぶんだっ！！"
+                                ""
                             ]
                         },
                         {
@@ -14177,8 +14177,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "会いに行く",
-                                    "離れる"
+                                    "I'm going to go see her",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -14510,21 +14510,21 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "に、逃げなきゃ…！！"
+                                "I-I have to run away...!! The outside is gradually\ngetting brighter... but I can't do it anymore, my\n<V> is impossible!!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "だんだん お外が 明るくなってきてるけど…、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "もう ちんちんムリぃー！！"
+                                ""
                             ]
                         },
                         {
@@ -14541,7 +14541,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "あーっ、なっちゃんー！？"
+                                "Ahh, Nacchan!?"
                             ]
                         },
                         {
@@ -14558,7 +14558,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "はやく 美咲さんのお部屋へ避難をっ…！"
+                                "Hurry, let's evacuate to Misaki-san's room...!"
                             ]
                         },
                         {
@@ -14998,7 +14998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小梅ちゃんだ！"
+                                "It's Koume-chan!"
                             ]
                         },
                         {
@@ -15006,8 +15006,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しかける",
-                                    "離れる"
+                                    "Talk to her",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -15368,7 +15368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小梅ちゃんいるかな…"
+                                "I wonder if Koume-chan is here..."
                             ]
                         },
                         {
@@ -15376,8 +15376,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "呼んでみる",
-                                    "離れる"
+                                    "Should I call her?",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -15731,7 +15731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ある日の出来事"
+                                "One day's incident."
                             ]
                         },
                         {
@@ -15739,8 +15739,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見てみる",
-                                    "離れる"
+                                    "Take a look",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -16094,14 +16094,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は なにしよう…"
+                                "What should we do today... I'm bored~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "ヒマだなぁ～"
+                                ""
                             ]
                         },
                         {
@@ -16109,8 +16109,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見てみる",
-                                    "離れる"
+                                    "Let's take a look",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -16464,7 +16464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ある日の出来事"
+                                "One day's incident."
                             ]
                         },
                         {
@@ -16472,8 +16472,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見てみる",
-                                    "離れる"
+                                    "Take a look",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -16827,7 +16827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あのね！あのね！"
+                                "Hey! Hey!"
                             ]
                         },
                         {
@@ -16835,8 +16835,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見てみる",
-                                    "離れる"
+                                    "Take a look",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -17190,7 +17190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "登校日って、ゆううつ～"
+                                "Going to school is so depressing~"
                             ]
                         },
                         {
@@ -17198,8 +17198,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見てみる",
-                                    "離れる"
+                                    "Let's take a look",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -17553,7 +17553,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふんっふ ふんふ ふ～ん♪"
+                                "Hehe, fun fu fun~♪"
                             ]
                         },
                         {
@@ -17561,8 +17561,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見てみる",
-                                    "離れる"
+                                    "Let's take a look",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -17916,21 +17916,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " - 小梅シナリオ - "
+                                "- Koume Scenario - If you proceed, you won't be\nable to progress with other events for a while."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進むと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらくの間 他のイベントが進行できなくなります"
+                                ""
                             ]
                         },
                         {
@@ -17938,8 +17938,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "離れる"
+                                    "Proceed",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -18292,7 +18292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小梅ちゃんだ！"
+                                "It's Koume-chan!"
                             ]
                         },
                         {
@@ -18300,8 +18300,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しかける",
-                                    "離れる"
+                                    "Talk to her",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -18632,7 +18632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "自由研究 がんばるぞ～！"
+                                "I'll do my best on my independent research\nproject!"
                             ]
                         },
                         {
@@ -18640,8 +18640,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "がんばる",
-                                    "離れる"
+                                    "I'll do my best",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -19073,7 +19073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小梅ちゃんと楽しく、自由研究の続きだ！"
+                                "Let's have fun with Koume-chan and continue our\nindependent study!"
                             ]
                         },
                         {
@@ -19081,8 +19081,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "がんばる",
-                                    "離れる"
+                                    "I'll do my best",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -19693,7 +19693,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "琴花ちゃんが歩いてる"
+                                "Kotohana-chan is walking."
                             ]
                         },
                         {
@@ -19701,8 +19701,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "話しかける",
-                                    "離れる"
+                                    "Talk to her",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -20056,7 +20056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お客さんが来てるみたい"
+                                "It looks like we have a customer."
                             ]
                         },
                         {
@@ -20064,8 +20064,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "家に入る",
-                                    "離れる"
+                                    "Enter the house",
+                                    "Move away"
                                 ],
                                 1,
                                 0,
@@ -20409,7 +20409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日もいい天気～"
+                                "It's a nice weather today~"
                             ]
                         },
                         {
@@ -20417,8 +20417,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "琴花視点へ",
-                                    "離れる"
+                                    "From Kotohana's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -20790,14 +20790,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "出ろっ！ 出ろっ！"
+                                "Come out! Come out! Please come out~!"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "出てくださぃ～っ！"
+                                ""
                             ]
                         },
                         {
@@ -20805,8 +20805,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "琴花視点",
-                                    "離れる"
+                                    "Kotohana's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -21178,7 +21178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ある日、こんなことがあってました"
+                                "One day, something like this happened."
                             ]
                         },
                         {
@@ -21186,8 +21186,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見てみる",
-                                    "離れる"
+                                    "Take a look",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -21641,7 +21641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美咲さんと、ほっこりタイム"
+                                "Time to relax with Misaki-san."
                             ]
                         },
                         {
@@ -21649,8 +21649,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "琴花視点へ",
-                                    "離れる"
+                                    "From Kotohana's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -22022,7 +22022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おっかた～ずけ～♪ おっかた～ずけ～♪"
+                                "Okkata~zuke~♪ Okkata~zuke~♪"
                             ]
                         },
                         {
@@ -22030,8 +22030,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "琴花視点へ",
-                                    "離れる"
+                                    "From Kotohana's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -22403,14 +22403,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ねむねむ…"
+                                "Sleepy...warm and cozy..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "　ぽかぽか…"
+                                ""
                             ]
                         },
                         {
@@ -22418,8 +22418,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "琴花視点へ",
-                                    "離れる"
+                                    "From Kotohana's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -22791,21 +22791,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                " - 琴花シナリオ - "
+                                "- Kotohana Scenario - If you proceed, you won't be\nable to progress with other events for a while."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "先に進むと、"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "しばらくの間 他のイベントが進行できなくなります"
+                                ""
                             ]
                         },
                         {
@@ -22813,8 +22813,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "離れる"
+                                    "Proceed",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -23138,14 +23138,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も 家庭教師の練習だ"
+                                "Today, practicing as a tutor with Koto-chan is a\nhappy time for me."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "琴ちゃんと一緒にいる時間が 幸せなんだ"
+                                ""
                             ]
                         },
                         {
@@ -23153,8 +23153,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "離れる"
+                                    "Proceed",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -23564,14 +23564,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おじさんに 今日 考えたことを話そう\\!"
+                                "I want to talk to you about something I've been\nthinking about today, Uncle! I hope it goes\nwell..."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "うまくいくといいな…"
+                                ""
                             ]
                         },
                         {
@@ -23579,8 +23579,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "進む",
-                                    "離れる"
+                                    "Proceed",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -23960,7 +23960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふぅー…"
+                                "*sigh*"
                             ]
                         },
                         {
@@ -23968,8 +23968,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "琴花視点へ",
-                                    "離れる"
+                                    "Switch to Kotohana's perspective",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -24408,7 +24408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は家庭教師…初の練習ぅ！"
+                                "Today is my first practice as a tutor!"
                             ]
                         },
                         {
@@ -24416,8 +24416,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "授業を受けに行く",
-                                    "離れる"
+                                    "Go to attend the class",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -24867,21 +24867,21 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日も家庭教師の日… なのに、"
+                                "Today is another day as a private tutor... But,\nwhen I remember the photo from Aoi-chan's house\nthe other day, my heart aches deep inside...\nUgh... Uuuuuu~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "このまえの 葵ちゃん家での写真を思い出して"
+                                ""
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "胸の奥が… うぅ…、ぅぅぅぅぅ～～～～っ…"
+                                ""
                             ]
                         },
                         {
@@ -24889,8 +24889,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "授業を受けに行く",
-                                    "離れる"
+                                    "Go to attend the class",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -25541,7 +25541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "なにか やってるかな？"
+                                "I wonder what she's doing?"
                             ]
                         },
                         {
@@ -25549,8 +25549,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "テレビを見る",
-                                    "離れる"
+                                    "Watch TV",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -25745,14 +25745,14 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "眠くなってきちゃった"
+                                "I'm starting to get sleepy. I should go to bed\nsoon."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 3,
                             "parameters": [
-                                "そろそろ寝よう"
+                                ""
                             ]
                         },
                         {
@@ -25976,7 +25976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "葵お姉ちゃんが お魚釣りしてる！！"
+                                "Aoi is fishing for fish!!"
                             ]
                         },
                         {
@@ -25984,8 +25984,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "見に行く",
-                                    "離れる"
+                                    "Go and see",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -26326,7 +26326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小梅ちゃんと 自由研究のつづきだ！"
+                                "It's the continuation of the independent study\nwith Koume-chan!"
                             ]
                         },
                         {
@@ -26334,8 +26334,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "自由研究！",
-                                    "離れる"
+                                    "Independent study!",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -26769,14 +26769,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今日は男子だけで 遊ぶのだ"
+                                "Today, we're going to play with just the boys.\n(Meanwhile...)"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "(一方その頃…)"
+                                ""
                             ]
                         },
                         {
@@ -26784,8 +26784,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "遊ぶ",
-                                    "離れる"
+                                    "Play",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
@@ -27116,14 +27116,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "犬？"
+                                "A dog? It looks like it's taking a break."
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "なんだか 一休みしてるみたいだ"
+                                ""
                             ]
                         },
                         {
@@ -27131,8 +27131,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "近づく",
-                                    "離れる"
+                                    "Approach",
+                                    "Move away"
                                 ],
                                 1,
                                 0,
@@ -27463,14 +27463,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "三人そろったし、"
+                                "Now that the three of us are together, I'm so\nhungry~"
                             ]
                         },
                         {
-                            "code": 401,
+                            "code": 0,
                             "indent": 0,
                             "parameters": [
-                                "もう おなかぺこぺこ～"
+                                ""
                             ]
                         },
                         {
@@ -27478,8 +27478,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "晩ごはん！",
-                                    "離れる"
+                                    "Dinner!",
+                                    "Separate"
                                 ],
                                 1,
                                 0,
