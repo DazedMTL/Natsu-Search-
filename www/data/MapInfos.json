@@ -3,7 +3,7 @@
     {
         "id": 1,
         "expanded": false,
-        "name": "ゲームスタート",
+        "name": "Game Start",
         "order": 4,
         "parentId": 0,
         "scrollX": 480,
@@ -12,7 +12,7 @@
     {
         "id": 2,
         "expanded": false,
-        "name": "朝 美咲の家",
+        "name": "Morning, Misaki's house.",
         "order": 16,
         "parentId": 0,
         "scrollX": 480,
@@ -21,7 +21,7 @@
     {
         "id": 3,
         "expanded": true,
-        "name": "朝 玄関",
+        "name": "Morning entrance",
         "order": 17,
         "parentId": 2,
         "scrollX": 480,
@@ -30,7 +30,7 @@
     {
         "id": 4,
         "expanded": false,
-        "name": "8月2日",
+        "name": "August 2nd",
         "order": 6,
         "parentId": 1,
         "scrollX": 480,
@@ -39,7 +39,7 @@
     {
         "id": 5,
         "expanded": true,
-        "name": "朝 居間",
+        "name": "Morning living room",
         "order": 18,
         "parentId": 2,
         "scrollX": 480,
@@ -48,7 +48,7 @@
     {
         "id": 6,
         "expanded": true,
-        "name": "朝 庭",
+        "name": "Morning Garden",
         "order": 19,
         "parentId": 2,
         "scrollX": 547,
@@ -57,7 +57,7 @@
     {
         "id": 7,
         "expanded": true,
-        "name": "朝 お風呂",
+        "name": "Morning bath",
         "order": 20,
         "parentId": 2,
         "scrollX": 832,
@@ -66,7 +66,7 @@
     {
         "id": 8,
         "expanded": true,
-        "name": "朝 美咲の部屋",
+        "name": "Morning, Misaki's room.",
         "order": 21,
         "parentId": 2,
         "scrollX": 480,
@@ -75,7 +75,7 @@
     {
         "id": 9,
         "expanded": false,
-        "name": "夜 美咲の家",
+        "name": "Misaki's house at night",
         "order": 25,
         "parentId": 0,
         "scrollX": 832,
@@ -84,7 +84,7 @@
     {
         "id": 10,
         "expanded": true,
-        "name": "夜 玄関",
+        "name": "Night Entrance",
         "order": 26,
         "parentId": 9,
         "scrollX": 832,
@@ -93,7 +93,7 @@
     {
         "id": 11,
         "expanded": true,
-        "name": "夜 居間",
+        "name": "Night living room",
         "order": 27,
         "parentId": 9,
         "scrollX": 480,
@@ -102,7 +102,7 @@
     {
         "id": 12,
         "expanded": true,
-        "name": "夜 庭",
+        "name": "Night Garden",
         "order": 28,
         "parentId": 9,
         "scrollX": 832,
@@ -111,7 +111,7 @@
     {
         "id": 13,
         "expanded": true,
-        "name": "夜 お風呂",
+        "name": "Night Bath",
         "order": 29,
         "parentId": 9,
         "scrollX": 521,
@@ -120,7 +120,7 @@
     {
         "id": 14,
         "expanded": true,
-        "name": "夜 美咲の部屋",
+        "name": "Misaki's room at night",
         "order": 30,
         "parentId": 9,
         "scrollX": 832,
@@ -130,7 +130,7 @@
     {
         "id": 16,
         "expanded": false,
-        "name": "朝 駄菓子屋方面",
+        "name": "Towards the morning candy store",
         "order": 34,
         "parentId": 0,
         "scrollX": 832,
@@ -139,7 +139,7 @@
     {
         "id": 17,
         "expanded": false,
-        "name": "美咲の家",
+        "name": "Misaki's house",
         "order": 7,
         "parentId": 4,
         "scrollX": 480,
@@ -148,7 +148,7 @@
     {
         "id": 18,
         "expanded": true,
-        "name": "玄関",
+        "name": "Entrance",
         "order": 8,
         "parentId": 17,
         "scrollX": 480,
@@ -157,7 +157,7 @@
     {
         "id": 19,
         "expanded": true,
-        "name": "居間 夜",
+        "name": "Living Room Night",
         "order": 10,
         "parentId": 17,
         "scrollX": 547,
@@ -166,7 +166,7 @@
     {
         "id": 20,
         "expanded": true,
-        "name": "神社 2",
+        "name": "Shrine 2",
         "order": 89,
         "parentId": 44,
         "scrollX": 480,
@@ -175,7 +175,7 @@
     {
         "id": 21,
         "expanded": true,
-        "name": "美咲の部屋",
+        "name": "Misaki's room",
         "order": 9,
         "parentId": 17,
         "scrollX": 480,
@@ -184,7 +184,7 @@
     {
         "id": 22,
         "expanded": true,
-        "name": "神社 3",
+        "name": "Shrine 3",
         "order": 90,
         "parentId": 44,
         "scrollX": 480,
@@ -193,7 +193,7 @@
     {
         "id": 23,
         "expanded": false,
-        "name": "駄菓子屋方面",
+        "name": "Towards the candy store",
         "order": 13,
         "parentId": 4,
         "scrollX": 480,
@@ -202,7 +202,7 @@
     {
         "id": 24,
         "expanded": true,
-        "name": "駄菓子屋外",
+        "name": "Outside the candy store",
         "order": 14,
         "parentId": 23,
         "scrollX": 832,
@@ -211,7 +211,7 @@
     {
         "id": 25,
         "expanded": true,
-        "name": "空き地方面",
+        "name": "Vacant Lot Area",
         "order": 15,
         "parentId": 4,
         "scrollX": 480,
@@ -220,7 +220,7 @@
     {
         "id": 26,
         "expanded": false,
-        "name": "朝 空き地方面",
+        "name": "Morning empty field direction",
         "order": 50,
         "parentId": 0,
         "scrollX": 832,
@@ -229,7 +229,7 @@
     {
         "id": 27,
         "expanded": true,
-        "name": "玄関 夜",
+        "name": "Entrance at night",
         "order": 11,
         "parentId": 17,
         "scrollX": 832,
@@ -238,7 +238,7 @@
     {
         "id": 28,
         "expanded": true,
-        "name": "美咲の部屋 夜",
+        "name": "Misaki's room at night",
         "order": 12,
         "parentId": 17,
         "scrollX": 480,
@@ -247,7 +247,7 @@
     {
         "id": 29,
         "expanded": true,
-        "name": "朝 高台 お墓",
+        "name": "Morning Hill Cemetery",
         "order": 96,
         "parentId": 95,
         "scrollX": 480,
@@ -256,7 +256,7 @@
     {
         "id": 30,
         "expanded": false,
-        "name": "朝 駄菓子屋外",
+        "name": "Outside the morning candy store",
         "order": 35,
         "parentId": 16,
         "scrollX": 832,
@@ -265,7 +265,7 @@
     {
         "id": 31,
         "expanded": true,
-        "name": "朝 駄菓子屋",
+        "name": "Morning Dagashi Shop",
         "order": 37,
         "parentId": 16,
         "scrollX": 832,
@@ -274,7 +274,7 @@
     {
         "id": 32,
         "expanded": true,
-        "name": "朝 空き地",
+        "name": "Morning vacant lot",
         "order": 51,
         "parentId": 26,
         "scrollX": 832,
@@ -283,7 +283,7 @@
     {
         "id": 33,
         "expanded": false,
-        "name": "朝 姉妹の家",
+        "name": "Morning, the sisters' house",
         "order": 62,
         "parentId": 0,
         "scrollX": 832,
@@ -292,7 +292,7 @@
     {
         "id": 34,
         "expanded": false,
-        "name": "朝 空き地奥",
+        "name": "Back of the vacant lot in the morning",
         "order": 52,
         "parentId": 26,
         "scrollX": 832,
@@ -301,7 +301,7 @@
     {
         "id": 35,
         "expanded": false,
-        "name": "小梅メイン1",
+        "name": "Koume Main 1",
         "order": 104,
         "parentId": 124,
         "scrollX": 480,
@@ -310,7 +310,7 @@
     {
         "id": 36,
         "expanded": false,
-        "name": "小梅 美咲の家",
+        "name": "Koume and Misaki's house",
         "order": 106,
         "parentId": 35,
         "scrollX": 832,
@@ -319,7 +319,7 @@
     {
         "id": 37,
         "expanded": true,
-        "name": "小梅 橋",
+        "name": "Koume Bridge",
         "order": 108,
         "parentId": 35,
         "scrollX": 481,
@@ -328,7 +328,7 @@
     {
         "id": 38,
         "expanded": false,
-        "name": "小梅 空き地方面",
+        "name": "Koume, vacant lot area",
         "order": 105,
         "parentId": 35,
         "scrollX": 832,
@@ -337,7 +337,7 @@
     {
         "id": 39,
         "expanded": true,
-        "name": "小梅 庭",
+        "name": "Koume Garden",
         "order": 107,
         "parentId": 35,
         "scrollX": 480,
@@ -346,7 +346,7 @@
     {
         "id": 40,
         "expanded": true,
-        "name": "小梅 駄菓子屋外",
+        "name": "Koume Dagashiya-gai",
         "order": 109,
         "parentId": 35,
         "scrollX": 481,
@@ -355,7 +355,7 @@
     {
         "id": 41,
         "expanded": true,
-        "name": "小梅 駄菓子屋",
+        "name": "Koume Dagashiya",
         "order": 110,
         "parentId": 35,
         "scrollX": 480,
@@ -364,7 +364,7 @@
     {
         "id": 42,
         "expanded": false,
-        "name": "イベント用",
+        "name": "Event use",
         "order": 102,
         "parentId": 0,
         "scrollX": 480,
@@ -373,7 +373,7 @@
     {
         "id": 43,
         "expanded": false,
-        "name": "朝 駅方面",
+        "name": "Morning, towards the station.",
         "order": 78,
         "parentId": 0,
         "scrollX": 832,
@@ -382,7 +382,7 @@
     {
         "id": 44,
         "expanded": false,
-        "name": "朝 神社方面",
+        "name": "Towards the Morning Shrine",
         "order": 82,
         "parentId": 0,
         "scrollX": 480,
@@ -391,7 +391,7 @@
     {
         "id": 45,
         "expanded": true,
-        "name": "朝 琴花の部屋",
+        "name": "Morning, Kotohana's room.",
         "order": 65,
         "parentId": 33,
         "scrollX": 832,
@@ -400,7 +400,7 @@
     {
         "id": 46,
         "expanded": true,
-        "name": "朝 小梅の部屋",
+        "name": "Morning, Koume's room.",
         "order": 64,
         "parentId": 33,
         "scrollX": 832,
@@ -409,7 +409,7 @@
     {
         "id": 47,
         "expanded": true,
-        "name": "小梅 駅方面",
+        "name": "Towards Koume Station",
         "order": 111,
         "parentId": 35,
         "scrollX": 480,
@@ -418,7 +418,7 @@
     {
         "id": 48,
         "expanded": true,
-        "name": "参道への道",
+        "name": "Path to the approach",
         "order": 84,
         "parentId": 44,
         "scrollX": 832,
@@ -427,7 +427,7 @@
     {
         "id": 49,
         "expanded": true,
-        "name": "参道 1",
+        "name": "Approach 1",
         "order": 85,
         "parentId": 44,
         "scrollX": 547,
@@ -436,7 +436,7 @@
     {
         "id": 50,
         "expanded": true,
-        "name": "参道 2",
+        "name": "Approach 2",
         "order": 86,
         "parentId": 44,
         "scrollX": 480,
@@ -445,7 +445,7 @@
     {
         "id": 51,
         "expanded": true,
-        "name": "朝 駄菓子屋外 釣り",
+        "name": "Morning, outside the candy store, fishing.",
         "order": 36,
         "parentId": 30,
         "scrollX": 832,
@@ -454,7 +454,7 @@
     {
         "id": 52,
         "expanded": true,
-        "name": "8月1日",
+        "name": "August 1st",
         "order": 5,
         "parentId": 1,
         "scrollX": 480,
@@ -463,7 +463,7 @@
     {
         "id": 53,
         "expanded": true,
-        "name": "朝 姉妹の居間",
+        "name": "Morning, the living room of the sisters.",
         "order": 63,
         "parentId": 33,
         "scrollX": 832,
@@ -472,7 +472,7 @@
     {
         "id": 54,
         "expanded": true,
-        "name": "朝 駅",
+        "name": "Morning Station",
         "order": 79,
         "parentId": 43,
         "scrollX": 832,
@@ -481,7 +481,7 @@
     {
         "id": 55,
         "expanded": true,
-        "name": "朝 葵の部屋",
+        "name": "Morning, Aoi's room.",
         "order": 38,
         "parentId": 16,
         "scrollX": 832,
@@ -490,7 +490,7 @@
     {
         "id": 56,
         "expanded": false,
-        "name": "コンビニ外",
+        "name": "Outside the convenience store",
         "order": 100,
         "parentId": 0,
         "scrollX": 480,
@@ -499,7 +499,7 @@
     {
         "id": 57,
         "expanded": false,
-        "name": "コンビニ",
+        "name": "Convenience store",
         "order": 101,
         "parentId": 56,
         "scrollX": 832,
@@ -508,7 +508,7 @@
     {
         "id": 58,
         "expanded": false,
-        "name": "イベントまとめ",
+        "name": "Event Summary",
         "order": 3,
         "parentId": 0,
         "scrollX": 480,
@@ -517,7 +517,7 @@
     {
         "id": 59,
         "expanded": true,
-        "name": "参道 3",
+        "name": "Approach 3",
         "order": 87,
         "parentId": 44,
         "scrollX": 480,
@@ -526,7 +526,7 @@
     {
         "id": 60,
         "expanded": true,
-        "name": "神社",
+        "name": "Shrine",
         "order": 88,
         "parentId": 44,
         "scrollX": 480,
@@ -535,7 +535,7 @@
     {
         "id": 61,
         "expanded": false,
-        "name": "タイトル画面",
+        "name": "Title screen",
         "order": 1,
         "parentId": 0,
         "scrollX": 480,
@@ -544,7 +544,7 @@
     {
         "id": 62,
         "expanded": true,
-        "name": "朝 空き地奥 崖 崩壊後",
+        "name": "Morning, back of the vacant lot, cliff, after the collapse",
         "order": 55,
         "parentId": 81,
         "scrollX": 480,
@@ -553,7 +553,7 @@
     {
         "id": 63,
         "expanded": false,
-        "name": "小梅サブ9",
+        "name": "Koume Sub 9",
         "order": 112,
         "parentId": 124,
         "scrollX": 832,
@@ -562,7 +562,7 @@
     {
         "id": 64,
         "expanded": false,
-        "name": "千歳",
+        "name": "Chitose",
         "order": 151,
         "parentId": 42,
         "scrollX": 480,
@@ -571,7 +571,7 @@
     {
         "id": 65,
         "expanded": true,
-        "name": "美咲の家",
+        "name": "Misaki's house",
         "order": 153,
         "parentId": 156,
         "scrollX": 480,
@@ -580,7 +580,7 @@
     {
         "id": 66,
         "expanded": true,
-        "name": "朝 トイレ",
+        "name": "Morning Toilet",
         "order": 22,
         "parentId": 2,
         "scrollX": 832,
@@ -589,7 +589,7 @@
     {
         "id": 67,
         "expanded": true,
-        "name": "朝 お風呂",
+        "name": "Morning bath",
         "order": 23,
         "parentId": 2,
         "scrollX": 832,
@@ -598,7 +598,7 @@
     {
         "id": 68,
         "expanded": true,
-        "name": "夜 お風呂",
+        "name": "Night Bath",
         "order": 32,
         "parentId": 9,
         "scrollX": 832,
@@ -607,7 +607,7 @@
     {
         "id": 69,
         "expanded": true,
-        "name": "夜 トイレ",
+        "name": "Night Toilet",
         "order": 31,
         "parentId": 9,
         "scrollX": 832,
@@ -616,7 +616,7 @@
     {
         "id": 70,
         "expanded": false,
-        "name": "夜 駄菓子屋方面",
+        "name": "Towards the Night Candy Store",
         "order": 42,
         "parentId": 0,
         "scrollX": 480,
@@ -625,7 +625,7 @@
     {
         "id": 71,
         "expanded": false,
-        "name": "夜 駄菓子屋外",
+        "name": "Night Dagashiya Exterior",
         "order": 43,
         "parentId": 70,
         "scrollX": 832,
@@ -634,7 +634,7 @@
     {
         "id": 72,
         "expanded": true,
-        "name": "夜 駄菓子屋外 釣り",
+        "name": "Night candy store fishing outside",
         "order": 44,
         "parentId": 71,
         "scrollX": 480,
@@ -643,7 +643,7 @@
     {
         "id": 73,
         "expanded": true,
-        "name": "夜 駄菓子屋",
+        "name": "Night Dagashiya",
         "order": 45,
         "parentId": 70,
         "scrollX": 832,
@@ -652,7 +652,7 @@
     {
         "id": 74,
         "expanded": true,
-        "name": "夜 葵の部屋",
+        "name": "Aoi's room at night",
         "order": 46,
         "parentId": 70,
         "scrollX": 832,
@@ -661,7 +661,7 @@
     {
         "id": 75,
         "expanded": true,
-        "name": "朝 葵のトイレ",
+        "name": "Morning, Aoi's bathroom",
         "order": 39,
         "parentId": 16,
         "scrollX": 832,
@@ -670,7 +670,7 @@
     {
         "id": 76,
         "expanded": true,
-        "name": "夜 葵のトイレ",
+        "name": "Aoi's toilet at night",
         "order": 47,
         "parentId": 70,
         "scrollX": 832,
@@ -679,7 +679,7 @@
     {
         "id": 77,
         "expanded": false,
-        "name": "夜 空き地方面",
+        "name": "Night empty space area",
         "order": 57,
         "parentId": 0,
         "scrollX": 832,
@@ -688,7 +688,7 @@
     {
         "id": 78,
         "expanded": true,
-        "name": "夜 空き地",
+        "name": "Night vacant lot",
         "order": 58,
         "parentId": 77,
         "scrollX": 832,
@@ -697,7 +697,7 @@
     {
         "id": 79,
         "expanded": false,
-        "name": "夜 空き地奥",
+        "name": "Back of the vacant lot at night",
         "order": 59,
         "parentId": 77,
         "scrollX": 832,
@@ -706,7 +706,7 @@
     {
         "id": 80,
         "expanded": true,
-        "name": "夜 空き地奥 崖",
+        "name": "Night, back of an empty lot, cliff",
         "order": 61,
         "parentId": 77,
         "scrollX": 480,
@@ -715,7 +715,7 @@
     {
         "id": 81,
         "expanded": false,
-        "name": "朝 空き地奥 崖",
+        "name": "Morning, back of the vacant lot, cliff",
         "order": 54,
         "parentId": 26,
         "scrollX": 832,
@@ -724,7 +724,7 @@
     {
         "id": 82,
         "expanded": false,
-        "name": "夜 駅方面",
+        "name": "Night Station Direction",
         "order": 80,
         "parentId": 0,
         "scrollX": 832,
@@ -733,7 +733,7 @@
     {
         "id": 83,
         "expanded": true,
-        "name": "夜 駅",
+        "name": "Night Station",
         "order": 81,
         "parentId": 82,
         "scrollX": 480,
@@ -742,7 +742,7 @@
     {
         "id": 84,
         "expanded": true,
-        "name": "夜 神社方面",
+        "name": "Towards the Night Shrine",
         "order": 83,
         "parentId": 44,
         "scrollX": 480,
@@ -751,7 +751,7 @@
     {
         "id": 85,
         "expanded": false,
-        "name": "朝 姉妹の廊下",
+        "name": "Morning Sisters' Corridor",
         "order": 66,
         "parentId": 33,
         "scrollX": 832,
@@ -760,7 +760,7 @@
     {
         "id": 86,
         "expanded": false,
-        "name": "朝 姉妹のトイレ",
+        "name": "Morning, the sisters' restroom",
         "order": 67,
         "parentId": 33,
         "scrollX": 832,
@@ -769,7 +769,7 @@
     {
         "id": 87,
         "expanded": false,
-        "name": "朝 姉妹のお風呂",
+        "name": "Morning Sisters' Bath",
         "order": 68,
         "parentId": 33,
         "scrollX": 832,
@@ -778,7 +778,7 @@
     {
         "id": 88,
         "expanded": false,
-        "name": "夜 姉妹の家",
+        "name": "Night Sisters' House",
         "order": 70,
         "parentId": 0,
         "scrollX": 832,
@@ -787,7 +787,7 @@
     {
         "id": 89,
         "expanded": true,
-        "name": "夜 姉妹の居間",
+        "name": "Living room of the Yoru sisters",
         "order": 71,
         "parentId": 88,
         "scrollX": 481,
@@ -796,7 +796,7 @@
     {
         "id": 90,
         "expanded": true,
-        "name": "夜 小梅の部屋",
+        "name": "Night, Koume's room",
         "order": 72,
         "parentId": 88,
         "scrollX": 832,
@@ -805,7 +805,7 @@
     {
         "id": 91,
         "expanded": false,
-        "name": "夜 姉妹の廊下",
+        "name": "Night Sisters' Corridor",
         "order": 74,
         "parentId": 88,
         "scrollX": 481,
@@ -814,7 +814,7 @@
     {
         "id": 92,
         "expanded": true,
-        "name": "夜 琴花の部屋",
+        "name": "Kotohana's room at night",
         "order": 73,
         "parentId": 88,
         "scrollX": 832,
@@ -823,7 +823,7 @@
     {
         "id": 93,
         "expanded": false,
-        "name": "夜 姉妹のトイレ",
+        "name": "Toilet of the Night Sisters",
         "order": 75,
         "parentId": 88,
         "scrollX": 832,
@@ -832,7 +832,7 @@
     {
         "id": 94,
         "expanded": false,
-        "name": "夜 姉妹のお風呂",
+        "name": "Night Sisters' Bath",
         "order": 76,
         "parentId": 88,
         "scrollX": 832,
@@ -841,7 +841,7 @@
     {
         "id": 95,
         "expanded": false,
-        "name": "朝 高台方面",
+        "name": "Morning, towards the hillside.",
         "order": 92,
         "parentId": 0,
         "scrollX": 480,
@@ -850,7 +850,7 @@
     {
         "id": 96,
         "expanded": false,
-        "name": "夜 高台方面",
+        "name": "Night Hillside Area",
         "order": 97,
         "parentId": 0,
         "scrollX": 832,
@@ -859,7 +859,7 @@
     {
         "id": 97,
         "expanded": false,
-        "name": "朝 高台 空き地",
+        "name": "Morning Hill Empty Lot",
         "order": 93,
         "parentId": 95,
         "scrollX": 832,
@@ -868,7 +868,7 @@
     {
         "id": 98,
         "expanded": false,
-        "name": "夜 高台 空き地",
+        "name": "Night Hill Empty Lot",
         "order": 98,
         "parentId": 96,
         "scrollX": 832,
@@ -877,7 +877,7 @@
     {
         "id": 99,
         "expanded": false,
-        "name": "朝 高台 坂道",
+        "name": "Morning Hill Slope",
         "order": 94,
         "parentId": 95,
         "scrollX": 480,
@@ -886,7 +886,7 @@
     {
         "id": 100,
         "expanded": false,
-        "name": "夜 高台 坂道",
+        "name": "Night Hill Slope",
         "order": 99,
         "parentId": 96,
         "scrollX": 480,
@@ -895,7 +895,7 @@
     {
         "id": 101,
         "expanded": true,
-        "name": "朝 高台 階段",
+        "name": "Morning Hill Stairs",
         "order": 95,
         "parentId": 95,
         "scrollX": 832,
@@ -904,7 +904,7 @@
     {
         "id": 102,
         "expanded": false,
-        "name": "サブイベント",
+        "name": "Sub Event",
         "order": 163,
         "parentId": 42,
         "scrollX": 480,
@@ -913,7 +913,7 @@
     {
         "id": 103,
         "expanded": false,
-        "name": "むしあみを貰う",
+        "name": "I received head lice.",
         "order": 164,
         "parentId": 102,
         "scrollX": 480,
@@ -922,7 +922,7 @@
     {
         "id": 104,
         "expanded": false,
-        "name": "朝 姉妹の玄関",
+        "name": "Morning, the sisters' entrance.",
         "order": 69,
         "parentId": 33,
         "scrollX": 832,
@@ -931,7 +931,7 @@
     {
         "id": 105,
         "expanded": false,
-        "name": "夜 姉妹の玄関",
+        "name": "Night Sisters' Entrance",
         "order": 77,
         "parentId": 88,
         "scrollX": 832,
@@ -940,7 +940,7 @@
     {
         "id": 106,
         "expanded": true,
-        "name": "朝 駄菓子屋 廊下",
+        "name": "Morning Candy Store Corridor",
         "order": 40,
         "parentId": 16,
         "scrollX": 832,
@@ -949,7 +949,7 @@
     {
         "id": 107,
         "expanded": true,
-        "name": "夜 駄菓子屋 廊下",
+        "name": "Night Candy Store Corridor",
         "order": 48,
         "parentId": 70,
         "scrollX": 832,
@@ -958,7 +958,7 @@
     {
         "id": 108,
         "expanded": true,
-        "name": "朝 駄菓子屋外 釣り",
+        "name": "Morning, outside the candy store, fishing.",
         "order": 53,
         "parentId": 34,
         "scrollX": 832,
@@ -967,7 +967,7 @@
     {
         "id": 109,
         "expanded": true,
-        "name": "朝 駄菓子屋外 釣り",
+        "name": "Morning, outside the candy store, fishing.",
         "order": 60,
         "parentId": 79,
         "scrollX": 480,
@@ -976,7 +976,7 @@
     {
         "id": 110,
         "expanded": true,
-        "name": "朝 仏間",
+        "name": "Morning, Buddhist altar room",
         "order": 24,
         "parentId": 2,
         "scrollX": 832,
@@ -985,7 +985,7 @@
     {
         "id": 111,
         "expanded": true,
-        "name": "夜 仏間",
+        "name": "Night Butsuden",
         "order": 33,
         "parentId": 9,
         "scrollX": 832,
@@ -994,7 +994,7 @@
     {
         "id": 112,
         "expanded": true,
-        "name": "朝 駄菓子屋 お風呂",
+        "name": "Morning, Dagashiya, Bath",
         "order": 41,
         "parentId": 16,
         "scrollX": 832,
@@ -1003,7 +1003,7 @@
     {
         "id": 113,
         "expanded": true,
-        "name": "朝 駄菓子屋 お風呂",
+        "name": "Morning, Dagashiya, Bath",
         "order": 49,
         "parentId": 70,
         "scrollX": 480,
@@ -1012,7 +1012,7 @@
     {
         "id": 114,
         "expanded": false,
-        "name": "小梅 空き地 奥 崖",
+        "name": "Koume Empty Lot Back Cliff",
         "order": 113,
         "parentId": 63,
         "scrollX": 832,
@@ -1021,7 +1021,7 @@
     {
         "id": 115,
         "expanded": true,
-        "name": "小梅 迷いの森",
+        "name": "Koume Forest of Doubt",
         "order": 114,
         "parentId": 63,
         "scrollX": 480,
@@ -1030,7 +1030,7 @@
     {
         "id": 116,
         "expanded": false,
-        "name": "小梅サブ10",
+        "name": "Koume Sub 10",
         "order": 115,
         "parentId": 124,
         "scrollX": 480,
@@ -1039,7 +1039,7 @@
     {
         "id": 117,
         "expanded": true,
-        "name": "小梅 美咲の部屋",
+        "name": "Koume and Misaki's room",
         "order": 116,
         "parentId": 116,
         "scrollX": 832,
@@ -1048,7 +1048,7 @@
     {
         "id": 118,
         "expanded": true,
-        "name": "小梅 美咲の玄関",
+        "name": "Koume and Misaki's entrance",
         "order": 117,
         "parentId": 116,
         "scrollX": 832,
@@ -1057,7 +1057,7 @@
     {
         "id": 119,
         "expanded": true,
-        "name": "小梅 美咲の居間",
+        "name": "Koume and Misaki's living room",
         "order": 118,
         "parentId": 116,
         "scrollX": 480,
@@ -1066,7 +1066,7 @@
     {
         "id": 120,
         "expanded": false,
-        "name": "小梅サブ11",
+        "name": "Koume Sub 11",
         "order": 119,
         "parentId": 124,
         "scrollX": 832,
@@ -1075,7 +1075,7 @@
     {
         "id": 121,
         "expanded": true,
-        "name": "小梅 姉妹の家",
+        "name": "Koume's sister's house",
         "order": 120,
         "parentId": 120,
         "scrollX": 480,
@@ -1084,7 +1084,7 @@
     {
         "id": 122,
         "expanded": false,
-        "name": "小梅 姉妹の玄関",
+        "name": "Koume's sister's entrance",
         "order": 121,
         "parentId": 120,
         "scrollX": 832,
@@ -1093,7 +1093,7 @@
     {
         "id": 123,
         "expanded": true,
-        "name": "小梅 姉妹の居間",
+        "name": "Koume's living room",
         "order": 122,
         "parentId": 120,
         "scrollX": 832,
@@ -1102,7 +1102,7 @@
     {
         "id": 124,
         "expanded": false,
-        "name": "小梅",
+        "name": "Koume",
         "order": 103,
         "parentId": 42,
         "scrollX": 480,
@@ -1111,7 +1111,7 @@
     {
         "id": 125,
         "expanded": false,
-        "name": "小梅 姉妹の廊下",
+        "name": "Koume Sisters' hallway",
         "order": 123,
         "parentId": 120,
         "scrollX": 480,
@@ -1120,7 +1120,7 @@
     {
         "id": 126,
         "expanded": false,
-        "name": "小梅サブ12",
+        "name": "Koume Sub 12",
         "order": 124,
         "parentId": 124,
         "scrollX": 480,
@@ -1129,7 +1129,7 @@
     {
         "id": 127,
         "expanded": true,
-        "name": "小梅 姉妹の家 (夜)",
+        "name": "Koume's Sister's House (Night)",
         "order": 125,
         "parentId": 126,
         "scrollX": 480,
@@ -1138,7 +1138,7 @@
     {
         "id": 128,
         "expanded": true,
-        "name": "小梅 空き地方面 (夜)",
+        "name": "Koume Empty Lot Area (Night)",
         "order": 126,
         "parentId": 126,
         "scrollX": 832,
@@ -1147,7 +1147,7 @@
     {
         "id": 129,
         "expanded": true,
-        "name": "小梅 空き地 (夜)",
+        "name": "Koume Empty Lot (Night)",
         "order": 127,
         "parentId": 126,
         "scrollX": 480,
@@ -1156,7 +1156,7 @@
     {
         "id": 130,
         "expanded": true,
-        "name": "小梅 空き地 奥 (夜)",
+        "name": "Koume Empty Lot Back (Night)",
         "order": 128,
         "parentId": 126,
         "scrollX": 480,
@@ -1165,7 +1165,7 @@
     {
         "id": 131,
         "expanded": true,
-        "name": "駅方面",
+        "name": "Towards the station",
         "order": 154,
         "parentId": 156,
         "scrollX": 832,
@@ -1174,7 +1174,7 @@
     {
         "id": 132,
         "expanded": false,
-        "name": "タイトル画面 2周目",
+        "name": "Title Screen 2nd Playthrough",
         "order": 2,
         "parentId": 61,
         "scrollX": 832,
@@ -1183,7 +1183,7 @@
     {
         "id": 133,
         "expanded": false,
-        "name": "琴花",
+        "name": "Kotohana",
         "order": 129,
         "parentId": 42,
         "scrollX": 480,
@@ -1192,7 +1192,7 @@
     {
         "id": 134,
         "expanded": false,
-        "name": "琴花サブ11",
+        "name": "Kotohana Sub 11",
         "order": 135,
         "parentId": 133,
         "scrollX": 480,
@@ -1201,7 +1201,7 @@
     {
         "id": 135,
         "expanded": false,
-        "name": "琴花 美咲の家",
+        "name": "Kotohana Misaki's house",
         "order": 136,
         "parentId": 134,
         "scrollX": 832,
@@ -1210,7 +1210,7 @@
     {
         "id": 136,
         "expanded": false,
-        "name": "琴花 空き地方面",
+        "name": "Kotohana, vacant lot area.",
         "order": 137,
         "parentId": 134,
         "scrollX": 832,
@@ -1219,7 +1219,7 @@
     {
         "id": 137,
         "expanded": false,
-        "name": "琴花 姉妹の家",
+        "name": "Kotohana's sister's house",
         "order": 138,
         "parentId": 134,
         "scrollX": 480,
@@ -1228,7 +1228,7 @@
     {
         "id": 138,
         "expanded": false,
-        "name": "琴花 姉妹の家 玄関",
+        "name": "Kotohana's sister's house entrance",
         "order": 139,
         "parentId": 134,
         "scrollX": 480,
@@ -1237,7 +1237,7 @@
     {
         "id": 139,
         "expanded": false,
-        "name": "琴花 姉妹の家 廊下",
+        "name": "Kotohana's sister's house, hallway",
         "order": 140,
         "parentId": 134,
         "scrollX": 480,
@@ -1246,7 +1246,7 @@
     {
         "id": 140,
         "expanded": false,
-        "name": "琴花サブ9",
+        "name": "Kotohana Sub 9",
         "order": 130,
         "parentId": 133,
         "scrollX": 480,
@@ -1255,7 +1255,7 @@
     {
         "id": 141,
         "expanded": false,
-        "name": "琴花 姉妹の家",
+        "name": "Kotohana's sister's house",
         "order": 131,
         "parentId": 140,
         "scrollX": 480,
@@ -1264,7 +1264,7 @@
     {
         "id": 142,
         "expanded": false,
-        "name": "琴花サブ10",
+        "name": "Kotohana Sub 10",
         "order": 132,
         "parentId": 133,
         "scrollX": 480,
@@ -1273,7 +1273,7 @@
     {
         "id": 143,
         "expanded": false,
-        "name": "琴花 美咲の家",
+        "name": "Kotohana Misaki's house",
         "order": 133,
         "parentId": 142,
         "scrollX": 832,
@@ -1282,7 +1282,7 @@
     {
         "id": 144,
         "expanded": false,
-        "name": "琴花 駅方面",
+        "name": "Kotohana Station direction",
         "order": 134,
         "parentId": 142,
         "scrollX": 480,
@@ -1291,7 +1291,7 @@
     {
         "id": 145,
         "expanded": false,
-        "name": "葵",
+        "name": "Aoi",
         "order": 141,
         "parentId": 42,
         "scrollX": 480,
@@ -1300,7 +1300,7 @@
     {
         "id": 146,
         "expanded": false,
-        "name": "葵サブ10",
+        "name": "Aoi Sub 10",
         "order": 142,
         "parentId": 145,
         "scrollX": 480,
@@ -1309,7 +1309,7 @@
     {
         "id": 147,
         "expanded": false,
-        "name": "葵 美咲の家",
+        "name": "Aoi Misaki's house",
         "order": 143,
         "parentId": 146,
         "scrollX": 832,
@@ -1318,7 +1318,7 @@
     {
         "id": 148,
         "expanded": false,
-        "name": "葵 駅方面",
+        "name": "Aoi Station Direction",
         "order": 144,
         "parentId": 146,
         "scrollX": 480,
@@ -1327,7 +1327,7 @@
     {
         "id": 149,
         "expanded": false,
-        "name": "葵 駅",
+        "name": "Aoi Station",
         "order": 145,
         "parentId": 146,
         "scrollX": 832,
@@ -1336,7 +1336,7 @@
     {
         "id": 150,
         "expanded": false,
-        "name": "葵 駄菓子屋方面 橋",
+        "name": "Aoi towards the candy store bridge",
         "order": 147,
         "parentId": 146,
         "scrollX": 832,
@@ -1345,7 +1345,7 @@
     {
         "id": 151,
         "expanded": false,
-        "name": "葵 駄菓子屋 外",
+        "name": "Aoi Dagashiya Outside",
         "order": 148,
         "parentId": 146,
         "scrollX": 832,
@@ -1354,7 +1354,7 @@
     {
         "id": 152,
         "expanded": false,
-        "name": "葵 駄菓子屋",
+        "name": "Aoi Dagashiya",
         "order": 149,
         "parentId": 146,
         "scrollX": 480,
@@ -1363,7 +1363,7 @@
     {
         "id": 153,
         "expanded": false,
-        "name": "葵 駄菓子屋 廊下",
+        "name": "Aoi Dagashiya Hallway",
         "order": 150,
         "parentId": 146,
         "scrollX": 480,
@@ -1372,7 +1372,7 @@
     {
         "id": 154,
         "expanded": false,
-        "name": "葵 駅 電車到着",
+        "name": "Aoi Station, train arrival.",
         "order": 146,
         "parentId": 146,
         "scrollX": 832,
@@ -1381,7 +1381,7 @@
     {
         "id": 155,
         "expanded": true,
-        "name": "神社 完成",
+        "name": "Shrine Completed",
         "order": 91,
         "parentId": 44,
         "scrollX": 480,
@@ -1390,7 +1390,7 @@
     {
         "id": 156,
         "expanded": false,
-        "name": "千歳サブ10",
+        "name": "Chitose Sub 10",
         "order": 152,
         "parentId": 64,
         "scrollX": 832,
@@ -1399,7 +1399,7 @@
     {
         "id": 157,
         "expanded": true,
-        "name": "橋",
+        "name": "Bridge",
         "order": 155,
         "parentId": 156,
         "scrollX": 832,
@@ -1408,7 +1408,7 @@
     {
         "id": 158,
         "expanded": true,
-        "name": "駄菓子屋",
+        "name": "Candy Store",
         "order": 156,
         "parentId": 156,
         "scrollX": 832,
@@ -1417,7 +1417,7 @@
     {
         "id": 159,
         "expanded": true,
-        "name": "神社方面",
+        "name": "Towards the shrine",
         "order": 157,
         "parentId": 156,
         "scrollX": 832,
@@ -1426,7 +1426,7 @@
     {
         "id": 160,
         "expanded": true,
-        "name": "参道への道",
+        "name": "Path to the approach",
         "order": 158,
         "parentId": 156,
         "scrollX": 832,
@@ -1435,7 +1435,7 @@
     {
         "id": 161,
         "expanded": true,
-        "name": "参道1",
+        "name": "Approach 1",
         "order": 159,
         "parentId": 156,
         "scrollX": 832,
@@ -1444,7 +1444,7 @@
     {
         "id": 162,
         "expanded": true,
-        "name": "参道2",
+        "name": "Approach 2",
         "order": 160,
         "parentId": 156,
         "scrollX": 832,
@@ -1453,7 +1453,7 @@
     {
         "id": 163,
         "expanded": true,
-        "name": "参道3",
+        "name": "Approach 3",
         "order": 161,
         "parentId": 156,
         "scrollX": 832,
@@ -1462,7 +1462,7 @@
     {
         "id": 164,
         "expanded": true,
-        "name": "神社",
+        "name": "Shrine",
         "order": 162,
         "parentId": 156,
         "scrollX": 480,
@@ -1471,7 +1471,7 @@
     {
         "id": 165,
         "expanded": true,
-        "name": "迷いの森 入り口",
+        "name": "Entrance of the Forest of Confusion",
         "order": 56,
         "parentId": 26,
         "scrollX": 480,
