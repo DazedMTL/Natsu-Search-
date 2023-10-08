@@ -3886,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Misaki-san is practicing to go outside."
+                                "It's practice for Misaki-san to go outside."
                             ]
                         },
                         {
@@ -4591,7 +4591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "- Misaki Scenario - If you proceed, you won't be\nable to progress with other events for a while."
+                                "- Misaki Scenario - If you proceed, other events\nwill be unable to progress for a while."
                             ]
                         },
                         {
@@ -4622,7 +4622,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Today is another step towards overcoming it."
+                                "Today, I'm ready to overcome it."
                             ]
                         },
                         {
@@ -4816,7 +4816,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Move forward"
+                                    "Proceed"
                                 ],
                                 1,
                                 0,
@@ -4995,7 +4995,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Move forward"
+                                    "Proceed"
                                 ],
                                 1,
                                 0,
@@ -5142,7 +5142,7 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "Move forward"
+                                    "Proceed"
                                 ],
                                 1,
                                 0,
@@ -8563,7 +8563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "If you proceed, you won't be able to progress with\nother events anymore."
+                                "If we proceed further, we won't be able to\nprogress with other events."
                             ]
                         },
                         {
@@ -8594,7 +8594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's almost complete."
+                                "We're almost done."
                             ]
                         },
                         {
@@ -9464,7 +9464,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can watch the ending again."
+                                "You can watch the ending one more time."
                             ]
                         },
                         {
@@ -10341,7 +10341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Aoi, big sister~"
+                                "Aoi, big sister!"
                             ]
                         },
                         {
@@ -12563,7 +12563,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Go out with me?",
+                                    "Go out with",
                                     "Separate"
                                 ],
                                 1,
@@ -13299,7 +13299,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Go see her",
+                                    "I'll go see her",
                                     "Separate"
                                 ],
                                 1,
@@ -13732,7 +13732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Let's play with Aoi-chan!"
+                                "Let's play with Aoi, big sister!"
                             ]
                         },
                         {
@@ -13740,7 +13740,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "I'm going to meet you",
+                                    "I'm going to meet her",
                                     "Separate"
                                 ],
                                 1,
@@ -14510,7 +14510,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I-I have to run away...!! The outside is gradually\ngetting brighter... but I can't do it anymore, my\n<V> is impossible!!"
+                                "I-I have to run away...!! The outside is gradually\ngetting brighter... but I can't do it anymore, my\n<V> is exhausted!!"
                             ]
                         },
                         {
@@ -16835,7 +16835,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Take a look",
+                                    "Let's take a look",
                                     "Separate"
                                 ],
                                 1,
@@ -18632,7 +18632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'll do my best on my independent research\nproject!"
+                                "I'll do my best on my independent research!"
                             ]
                         },
                         {
@@ -21186,7 +21186,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Take a look",
+                                    "Let's take a look",
                                     "Separate"
                                 ],
                                 1,
@@ -23564,7 +23564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I want to talk to you about something I've been\nthinking about today, Uncle! I hope it goes\nwell..."
+                                "I'll tell you what I've been thinking about today,\nuncle! I hope it goes well..."
                             ]
                         },
                         {
@@ -24416,7 +24416,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Go to attend the class",
+                                    "Go to attend the lesson",
                                     "Separate"
                                 ],
                                 1,
@@ -24867,7 +24867,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Today is another day as a private tutor... But,\nwhen I remember the photo from Aoi-chan's house\nthe other day, my heart aches deep inside...\nUgh... Uuuuuu~"
+                                "Today is another day as a home tutor... But,\nthinking about the photo from Aoi-chan's house the\nother day, my heart aches... Ugh... Uuuuuu~"
                             ]
                         },
                         {
@@ -27116,7 +27116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A dog? It looks like it's taking a break."
+                                "A dog? It seems like it's taking a break."
                             ]
                         },
                         {
@@ -27132,7 +27132,7 @@
                             "parameters": [
                                 [
                                     "Approach",
-                                    "Move away"
+                                    "Separate"
                                 ],
                                 1,
                                 0,
